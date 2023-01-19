@@ -1,6 +1,6 @@
 {
   "name": "demo-auto-changelog",
-  "version": "1.1.4",
+  "version": "1.1.5",
   "main": "index.js",
   "repository": "https://github.com/natthasath/demo-auto-changelog.git",
   "author": "Natthasath Saksupanara <natthasath.sak@gmail.com>",
