@@ -19,6 +19,7 @@ standard-version
 ### Commit Message Type
 ```
 👷 build: เมื่อปรับปรุง build config หรือ development tools (เช่น: เกี่ยวข้องกับ npm หรือการเพิ่ม dependencies)
+✨ feat: เมื่อเพิ่มคุณสมบัติใหม่ (feature)
 ```
 
 [Conventional Commits 1.0.0](https://www.conventionalcommits.org/en/v1.0.0/)
